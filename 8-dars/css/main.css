@@ -1,0 +1,12 @@
+.background {
+  background-image: url('../images/sky.jpg');
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
+.img {
+  width: 900px;
+  height: 400px;
+  padding-top: 200px;
+  padding-left: 200px;
+}

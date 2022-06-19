@@ -1,0 +1,69 @@
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.header-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+
+.list-item {
+  width: 70px;
+  text-align: center;
+}
+
+.list-item-link {
+  text-decoration: none;
+
+ color: #333333
+}
+
+.freedom-inner {
+  display: flex;
+  align-items: center;
+justify-content: space-around;
+}
+
+.freedom-link {
+  width: 260px;
+  height: 51px;
+  background: #EA625C;
+  color: aliceblue;
+}
+
+.freedom-content {
+  width: 450px;
+}
+
+.freedom-bottom-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.bottom-list-itme {
+  width: 280px;
+}
+
+.sport-band-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sport-band-link {
+  width: 260px;
+height: 51px;
+background: #EA625C;
+color:aliceblue;
+}
+
+.sport-band-content {
+  width: 450px;
+}
+

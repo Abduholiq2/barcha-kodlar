@@ -1,0 +1,71 @@
+body {
+  background: rgba(1, 78, 86, 1);
+
+}
+.empty-pleace1 {
+  display: inline-block;
+  width: 50px;
+}
+.site-logo {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.empty-please2 {
+display: inline-block;
+vertical-align: middle;
+width: 100px;
+}
+
+.list {
+  display: inline-block;
+  
+  text-align: center;
+  list-style: none;
+}
+.itme {
+  display: inline-block;
+  width: 70px;
+  text-align: center;
+}
+.empty-please3 {
+  width: 700px;
+  display: inline-block;
+}
+.site-link {
+  width: 153px;
+  height: 48px;
+  vertical-align: middle;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+color: #FFFFFF;
+border: 2px solid #FFFFFF;
+border-radius: 24px;
+}
+.main-title-box {
+  display: inline-block;
+  vertical-align: middle;
+  width: 635px;
+}
+.main-title {
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: 700;
+font-size: 100px;
+line-height: 100px;
+color: #FFFFFF;
+}
+.main-tex-box {
+  width: 445px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.talent-color {
+  color: brown;
+}
+
